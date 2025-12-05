@@ -1,4 +1,4 @@
-## Cigdem Arslan – UI/UX & FullStack Developer
+## Ivan Stefanyshyn – UI/UX & FullStack Developer
 
 👋 Hello! I'm a frontend developer with experience in building responsive, scalable, and accessible web applications using modern JavaScript frameworks like React.
 
@@ -13,20 +13,19 @@
 
 ## Business Details
 
-- **Full Name:** Cigdem Arslan  
-- **Email:** cigdemarslan93@outlook.com  
+- **Full Name:** Ivan Stefanyshyn  
+- **Email:** stefivan2306@gmail.com  
 - **Address:**  
-  Bld. 105, Appt. 10  
-  Rua Sargento Sampaio Street  
-  Avai, SP 16680-000  
-  Brazil  
-- **GitHub Profile:** [https://github.com/cigdemarslan-dev](https://github.com/cigdemarslan-dev)
+  street Zelena, building 16
+  Shyshkivtsi 48700
+  Ukraine
+- **GitHub Profile:** [https://github.com/ivan-stefanyshyn](https://github.com/ivan-stefanyshyn)
 
 ---
 
 ## 📷 Verification Statement
 
-This GitHub profile and repository are maintained by Cigdem Arslan.  
+This GitHub profile and repository are maintained by Ivan Stefanyshyn.  
 The contact information and address above are accurate and belong to me.  
 
 ---
